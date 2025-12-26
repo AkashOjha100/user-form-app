@@ -11,6 +11,9 @@ dist/
 # Environment variables
 .env
 
+# Local docker credentials (if you use a local file)
+.docker/local_credentials
+
 # OS files
 .DS_Store
 Thumbs.db
