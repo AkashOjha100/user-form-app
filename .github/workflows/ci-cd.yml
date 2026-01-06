@@ -23,5 +23,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: akashojha100/user-form-app:latest
+          tags: akashojha100/user-form-app
 
