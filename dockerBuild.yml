@@ -31,4 +31,3 @@ jobs:
           tags: |
             akashvip100/user-form-app:latest
             akashvip100/user-form-app:${{ github.sha }}
-
